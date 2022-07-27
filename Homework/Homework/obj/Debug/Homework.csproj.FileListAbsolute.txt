@@ -1,0 +1,14 @@
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Curs 1\Homework\Homework\bin\Debug\Homework.exe.config
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Curs 1\Homework\Homework\bin\Debug\Homework.exe
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Curs 1\Homework\Homework\bin\Debug\Homework.pdb
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Curs 1\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Curs 1\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Curs 1\Homework\Homework\obj\Debug\Homework.exe
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Curs 1\Homework\Homework\obj\Debug\Homework.pdb
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\Homework\bin\Debug\Homework.exe.config
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\Homework\bin\Debug\Homework.exe
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\Homework\bin\Debug\Homework.pdb
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\Homework\obj\Debug\Homework.exe
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\Homework\obj\Debug\Homework.pdb

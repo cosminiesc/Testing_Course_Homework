@@ -1,0 +1,17 @@
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Homework.exe
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Homework.pdb
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Homework.exe.config
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Users\IT - Information Technology\0. Siemens R&D Brasov\DiscoverIT_2022\Cursuri iulie_august\Testare\Homework\Homework\UnitTestProject\obj\Debug\UnitTestProject.pdb
